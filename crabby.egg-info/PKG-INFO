@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: crabby
+Version: 0.1
+Summary: A collection of scripts used in the Nusbaum Lab for data analysis, modeling, and visualization
+Home-page: https://github.com/LoganJF/crabby
+Author: Logan Fickling
+Author-email: loganfickling@gmail.com
+License: UNKNOWN
+Description: 
+        # crabby
+        
+Platform: UNKNOWN
+Requires-Python: >=3.6.0
+Description-Content-Type: text/markdown
